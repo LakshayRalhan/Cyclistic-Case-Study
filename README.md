@@ -30,7 +30,7 @@ Key Insights
 
 
 
-[Full Case Study](Cyclistic Bike-Share Analysis Case Study.md)
+[Full Case Study](https://github.com/LakshayRalhan/Cyclistic-Case-Study/blob/main/Cyclistic%20Bike-Share%20Analysis%20Case%20Study.md)
 
 
 
